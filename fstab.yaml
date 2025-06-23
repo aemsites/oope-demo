@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemsites/oope-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
